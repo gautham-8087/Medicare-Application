@@ -1,0 +1,39 @@
+--- Users (Role: doctor) ---
+User ID: 1, Name: Dr. Anita Roy, Email: doc@example.com
+  Profile ID: 1
+  Specialization: Cardiologist
+  Experience: 12
+  Qualifications: MBBS, MD (Cardiology)
+  Fee: 800.0
+--------------------
+User ID: 3, Name: Doctor1, Email: doctor1@gmail.com
+  Profile: NONE
+--------------------
+User ID: 6, Name: V, Email: v@123
+  Profile: NONE
+--------------------
+User ID: 7, Name: Doctor, Email: doctor@gmail.com
+  Profile: NONE
+--------------------
+User ID: 8, Name: Doctor1, Email: doctor1@example.com
+  Profile: NONE
+--------------------
+User ID: 10, Name: Dr. Anjali Desai, Email: anjali@example.com
+  Profile ID: 2
+  Specialization: Neurologist
+  Experience: 8
+  Qualifications: MBBS, DM (Neurology)
+  Fee: 700.0
+--------------------
+User ID: 11, Name: Dr. Rajesh Kumar, Email: rajesh@example.com
+  Profile: NONE
+--------------------
+User ID: 12, Name: Dr. Priya Sharma, Email: priya@example.com
+  Profile: NONE
+--------------------
+User ID: 13, Name: Dr. Vikram Singh, Email: vikram@example.com
+  Profile: NONE
+--------------------
+User ID: 14, Name: Dr. Sanjay Gupta, Email: sanjay@example.com
+  Profile: NONE
+--------------------
