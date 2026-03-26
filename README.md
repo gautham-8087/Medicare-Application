@@ -14,7 +14,7 @@ cd "c:\Users\HP\Downloads\FINAL YEAR PROJECT\diabetesCare+"
 python app.py
 ```
 
-The application will be available at: **http://localhost:5000**
+The application will be available at: **https://my-medicare-app.vercel.app/**
 
 ### First Time Setup
 1. **Create an account** at `/signup`
